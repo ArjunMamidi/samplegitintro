@@ -16,3 +16,6 @@ git log
 git push origin master
 
 git pull
+
+merge
+rebase
