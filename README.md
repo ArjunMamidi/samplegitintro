@@ -14,3 +14,5 @@ git commit -m "<mesage>"
 git log
 
 git push origin master
+
+git pull
